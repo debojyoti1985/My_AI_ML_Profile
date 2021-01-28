@@ -1,0 +1,125 @@
+"Nr
+","Country
+",Country_Code
+1," Australia
+",AUS
+2," New Zealand
+",NZL
+3," United Kingdom
+",GBR
+4," United States
+",USA
+5," Antigua and Barbuda
+",ATG
+6," Bahamas
+",BHS
+7," Barbados
+",BRB
+8," Belize
+",BLZ
+9," Botswana
+",BWA
+10," Burundi
+",BDI
+11," Cameroon
+",CMR
+12," Canada
+",CAN
+13," Cook Islands
+",COK
+14," Dominica
+",DMA
+15," Eswatini
+",SWZ
+16," Fiji
+",FJI
+17," Gambia
+",GMB
+18," Ghana
+",GHA
+19," Grenada
+",GRD
+20," Guyana
+",GUY
+21," India
+",IND
+22," Ireland
+",IRL
+23," Jamaica
+",JAM
+24," Kenya
+",KEN
+25," Kiribati
+",KIR
+26," Lesotho
+",LSO
+27," Liberia
+",LBR
+28," Malawi
+",MWI
+29," Malta
+",MLT
+30," Marshall Islands
+",MHL
+31," Mauritius
+",MUS
+32," Micronesia
+",FSM
+33," Namibia
+",NAM
+34," Nauru
+",NRU
+35," Nigeria
+",NGA
+36," Niue
+",NIU
+37," Pakistan
+",PAK
+38," Palau
+",PLW
+39," Papua New Guinea
+",PNG
+40," Philippines
+",PHL
+41," Rwanda
+",RWA
+42," Saint Kitts and Nevis
+",KNA
+43," Saint Lucia
+",LCA
+44," Saint Vincent and the Grenadines
+",VCT
+45," Samoa
+",WSM
+46," Seychelles
+",SYC
+47," Sierra Leone
+",SLE
+48," Singapore
+",SGP
+49," Solomon Islands
+",SLB
+50," Somaliland
+",SOM
+51," South Africa
+",ZAF
+52," South Sudan
+",SSD
+53," Sudan
+",SDN
+54," Tanzania
+",TZA
+55," Tonga
+",TON
+56," Trinidad and Tobago
+",TTO
+57," Tuvalu
+",TUV
+58," Uganda
+",UGA
+59," Vanuatu
+",VUT
+60," Zambia
+",ZMB
+61," Zimbabwe
+",ZWE
