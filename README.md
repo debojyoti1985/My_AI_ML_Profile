@@ -6,5 +6,10 @@ Repository for some of the AI-ML projects undertaken
 **Data** - Real Investment Data from Crunchbase.com  
 **Techniques Used** - Data Wrangling, EDA, Data Analysis  
 
+## 2. Lending Club Case Study to identify strog indicators for loan default
+**Business Objective** - To identify variables which are strong indicators of default and potentially use the insights in approval /
+rejection decision making    
+**Data** - Lendingclub.com data from 2007 till 2011    
+**Techniques Used** - EDA  
 
 
