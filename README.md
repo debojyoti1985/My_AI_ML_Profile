@@ -12,4 +12,7 @@ rejection decision making
 **Data** - Lendingclub.com data from 2007 till 2011    
 **Techniques Used** - EDA  
 
-
+## 3. Car price & feature prediction in US market using Linear Regression 
+Business Objective - Predict car price & identify car features which contribute the most towards desciding the car price  
+Data - Car price data gathered from US market  
+Techniques Used - Data Wrangling, EDA, Linear regression using OLS, RFE, VIF
